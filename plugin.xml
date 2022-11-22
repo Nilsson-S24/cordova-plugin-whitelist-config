@@ -35,7 +35,7 @@
             <feature name="Whitelist" >
                 <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
                 <param name="onload" value="true" />
-                <param name="android:exported" value=“false” />
+                <param name="android:exported" value="false" />
             </feature>
         </config-file>
 
